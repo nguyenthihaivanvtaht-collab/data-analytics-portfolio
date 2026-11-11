@@ -22,7 +22,7 @@ This project explores transaction behavior, account characteristics, and activit
 
 ## Files
 
-- `Nguyen Thi Hai Van - Capstone Project - Transaction Data Analysis - Summer Data Boot Camp.pbix` — Power BI report
+- Capstone Project - Transaction Data Analysis.pbix` — Power BI report
 
 ## How to View
 
