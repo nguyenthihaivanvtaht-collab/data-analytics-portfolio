@@ -22,7 +22,7 @@ This project explores transaction behavior, account characteristics, and activit
 
 ## Files
 
-- Capstone Project - Transaction Data Analysis.pbix — Power BI report
+- `Capstone Project - Transaction Data Analysis.pbix` — Power BI report
 
 ## How to View
 
