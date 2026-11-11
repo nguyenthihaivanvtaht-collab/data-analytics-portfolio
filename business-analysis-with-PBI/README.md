@@ -22,7 +22,7 @@ The project examines sales across products, regions, and sales channels to ident
 
 - `.pbix` — Interactive Power BI report
 - `.xlsx` — Project data
-- `Adidas project.pdf` — Project report
+- `.pdf` — Project report
 
 ## How to View
 
