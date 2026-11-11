@@ -1,31 +1,28 @@
-# Visa and Mastercard Stock Analysis
+# Adidas Sales Analysis
 
-An Accounting Data Analysis course project examining historical stock data for Visa and Mastercard using Power BI and Python.
+A Business Analysis course project using Power BI to explore Adidas sales performance from 2020 to 2021.
 
 ## Project Overview
 
-The project analyzes stock price and trading volume trends for Visa and Mastercard from 2008 to 2024. It also uses Python to forecast prices from July 2024 to June 2026 and compares the forecasts with historical data.
+The project examines sales across products, regions, and sales channels to identify performance patterns and develop data-informed recommendations.
 
 ## Analysis
 
-- Cleaned and prepared the financial data.
-- Compared historical price movements and trading volumes for both companies.
-- Examined the relationship between daily high prices and trading volume.
-- Forecasted stock prices for July 2024–June 2026 and compared them with historical trends.
-- Presented findings and investment considerations based on the analysis.
+- Cleaned and standardized the sales data.
+- Analyzed revenue by product, region, and sales channel.
+- Identified best-selling products and compared channel and regional performance.
+- Proposed product and channel strategies to support revenue growth.
 
 ## Tools
 
 - Power BI
-- Python
 - Excel
 
 ## Files
 
 - `.pbix` — Interactive Power BI report
-- `.ipynb` — Python analysis notebook
 - `.xlsx` — Project data
-- `.pdf` — Project report
+- `Adidas project.pdf` — Project report
 
 ## How to View
 
